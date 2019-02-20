@@ -3,8 +3,8 @@
 [![Gem Version](https://badge.fury.io/rb/rubycritic-small-badge.svg)](https://badge.fury.io/rb/rubycritic-small-badge)
 [![Build Status](https://api.travis-ci.org/MarcGrimme/rubycritic-small-badge.svg?branch=master)](https://secure.travis-ci.org/MarcGrimme/rubycritic-small-badge)
 [![Depfu](https://badges.depfu.com/badges/48a6c1c7c649f62eede6ffa2be843180/count.svg)](https://depfu.com/github/MarcGrimme/rubycritic-small-badge?project_id=6900)
-[![Coverage](https://marcgrimme.github.io/rubycritic-small-badge/badges/coverage_badge_total.svg)(https://marcgrimme.github.io/rubycritic-small-badge/coverage/index.html)
-[![RubyCritic](https://marcgrimme.github.io/rubycritic-small-badge/badges/rubycritic_badge_score.svg)(https://marcgrimme.github.io/rubycritic-small-badge/tmp/rubycritic/overview.html)]
+[![Coverage](https://marcgrimme.github.io/rubycritic-small-badge/badges/coverage_badge_total.svg)](https://marcgrimme.github.io/rubycritic-small-badge/coverage/index.html)
+[![RubyCritic](https://marcgrimme.github.io/rubycritic-small-badge/badges/rubycritic_badge_score.svg)](https://marcgrimme.github.io/rubycritic-small-badge/tmp/rubycritic/overview.html)
 
 *RubyCriticCovBadge* is a gem that can be added to the `Gemfile` and will produce a file called `rubycritic_badge_score.svg` in the `badges` directory.
 It could be looking as follows dependent on how it is configured.
