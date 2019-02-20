@@ -9,7 +9,7 @@
 *RubyCriticCovBadge* is a gem that can be added to the `Gemfile` and will produce a file called `rubycritic_badge_score.svg` in the `badges` directory.
 It could be looking as follows dependent on how it is configured.
 
-...
+![Coverage](https://marcgrimme.github.io/rubycritic-small-badge/badges/coverage_badge_total.svg)
 
 The idea is to created a badge for [RubyCritic](https://github.com/whitesmith/rubycritic) to create a persistable image that shows the score as a badge.
 
