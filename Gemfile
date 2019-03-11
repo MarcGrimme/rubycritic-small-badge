@@ -5,5 +5,4 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'byebug', group: %i[development test]
-gem 'rubycritic', git: 'https://github.com/marcgrimme/rubycritic',
-                  branch: 'feature/support-dynamic-reports'
+gem 'rubycritic', git: 'https://github.com/whitesmith/rubycritic'
