@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.summary     = %(Small Badge generator for RubyCritic analysis tool for ruby)
   s.description = %(Small Badge generator for RubyCritic coverage tool for ruby)
 
-  s.add_dependency 'repo-small-badge', '~> 0.2.5'
+  s.add_dependency 'repo-small-badge', '~> 0.2.6'
   s.add_development_dependency 'rake', '~> 12'
   s.add_development_dependency 'rspec', '~> 3.8'
   s.add_development_dependency 'rubocop', '~> 0.65'
