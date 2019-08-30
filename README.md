@@ -15,7 +15,7 @@ The idea is to created a badge for [RubyCritic](https://github.com/whitesmith/ru
 
 ## Installation
 
-The badge creation is dependent on the [RubySmallBadge gem](https://github.com/marcgrimme/ruby-small-badge).
+The badge creation is dependent on the [RepoSmallBadge gem](https://github.com/marcgrimme/repo-small-badge).
 It can be installed in your Ruby library or rails app as part of the `Gemfile` as follows.
 
 ```
