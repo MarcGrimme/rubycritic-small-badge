@@ -19,7 +19,7 @@ require 'rubygems'
 require 'bundler/setup'
 require 'rubycritic_small_badge'
 
-Dir[File.join('./spec/support/*.rb')].each { |f| require f }
+Dir[File.join('./spec/support/*.rb')].sort.each { |f| require f }
 
 SimpleCovSmallBadge.configure do |config|
   # config.rounded_border = false
