@@ -7,7 +7,7 @@ end
 
 module TestRubyCriticSmallBadge
   module Mocks
-    # rubocop:disable Metrics/ParameterLists, Metrics/AbcSize
+    # rubocop:disable Metrics/ParameterLists
     def mock_repo_badge_image(score: 100, name: 'score',
                               title: 'score',
                               state: 'good',
@@ -20,7 +20,7 @@ module TestRubyCriticSmallBadge
       allow(mock).to receive(:badge).with(name, title, score)
       mock
     end
-    # rubocop:enable Metrics/ParameterLists, Metrics/AbcSize
+    # rubocop:enable Metrics/ParameterLists
 
     def map_config_options(config_hash, state)
       hash = {}
