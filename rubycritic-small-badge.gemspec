@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec', '~> 3.8'
   s.add_development_dependency 'rubocop', '~> 1.0'
   s.add_development_dependency 'rubycritic', '~> 4.1'
-  s.add_development_dependency 'simplecov', '~> 0.17'
+  s.add_development_dependency 'simplecov', '~> 1.2'
   s.add_development_dependency 'simplecov-small-badge', '~> 0.2.3'
 
   s.files         = `git ls-files`.split("\n")
